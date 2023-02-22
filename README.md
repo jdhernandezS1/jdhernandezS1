@@ -6,7 +6,7 @@ Welcome To my Profile I am David.
 - I am a Electronic engineer (Digital systems Specialization) Bachellor from University Of Quindio High Quality.
 - Full Stack Software Developer Diploma from Code Institute.  
 - 👯 I’m looking to collaborate on BlockChain Projects.
-- I am able to Be part of a development team.
+- I am open to be part of a development team.
 
 
 Please Visit my LinkedIn profile and connect with me:  
