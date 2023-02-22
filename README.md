@@ -1,6 +1,7 @@
+![Uniquindio](https://res.cloudinary.com/djvwk7zf2/image/upload/v1677093788/uniquindio_adupro.jpg)
 
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
-![Uniquindio](https://res.cloudinary.com/djvwk7zf2/image/upload/v1677093788/uniquindio_adupro.jpg)
+
 Welcome To my Profile I am David.  
 
 - I am a Electronic engineer (Digital systems Specialization) Bachellor from University Of Quindio High Quality.
