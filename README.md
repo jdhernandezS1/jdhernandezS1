@@ -1,4 +1,4 @@
-![Uniquindio](https://res.cloudinary.com/djvwk7zf2/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1677093534/uniquindio_aanjy7.jpg)
+![Uniquindio](https://res.cloudinary.com/djvwk7zf2/image/upload/v1677093534/uniquindio_aanjy7.jpg)
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome To my Profile I am David.  
