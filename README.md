@@ -5,7 +5,7 @@ Welcome To my Profile I am David.
 
 - I am a Electronic engineer (Digital systems Specialization) Bachellor from University Of Quindio High Quality.
 - Full Stack Software Developer Diploma from Code Institute.  
-- 👯 I’m looking to collaborate on BlockChain Projects.
+- I am looking to collaborate in It Projects.
 - I am open to be part of a development team.
 
 
@@ -58,17 +58,5 @@ Please Visit my LinkedIn profile and connect with me:
 
 ![stats](https://github-readme-stats.vercel.app/api?username=jdhernandezS1&theme=blue-green)
 
-<!--
-**jdhernandezS1/jdhernandezS1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
