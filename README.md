@@ -29,7 +29,7 @@ Please Visit my LinkedIn profile and connect with me:
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Databases
 
@@ -42,6 +42,7 @@ Please Visit my LinkedIn profile and connect with me:
 ### API
 
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
+![Gspread](https://img.shields.io/badge/Gspread-626CD9?style=for-the-badge&logo=Google&logoColor=white))
 
 ### Control Version
 
