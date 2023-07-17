@@ -38,6 +38,12 @@ Please Visit my LinkedIn profile and connect with me:
 AWS:
 ![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
 
+### Documentation 
+
+[Swagger]{https://img.shields.io/badge/swagger-black?style=for-the-badge&logo=swagger}
+
+
+
 ### Deployment Platforms
 
 
@@ -52,6 +58,7 @@ AWS:
 
 ![Git](https://img.shields.io/badge/Git%20-%23302F2F.svg?&style=for-the-badge&logo=Git&logoColor=F05032)
 [![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com)
+[GitLab]{https://img.shields.io/badge/GitLab-black?style=for-the-badge&logo=gitlab}
 
 ### Operative Systems
 
