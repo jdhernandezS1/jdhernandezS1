@@ -1,6 +1,33 @@
 ![Uniquindio](https://res.cloudinary.com/djvwk7zf2/image/upload/v1677093534/uniquindio_aanjy7.jpg)
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
-
+{
+  "type": "Assertion",
+  "id": "https://api.eu.badgr.io/public/assertions/qJ7t9f-aRYOmITceXdr4Rw",
+  "@context": "https://w3id.org/openbadges/v2",
+  "recipient": {
+    "type": "email",
+    "salt": "8c846375e53f44a9b2b36ebd9d2055ad",
+    "hashed": true,
+    "identity": "sha256$a68089cd3915cdf0acd62bf9141c2f9a7c2bb2a6e59b99e68d1437b6f1c1bcb1"
+  },
+  "badge": "https://api.eu.badgr.io/public/badges/sdqQGJoIQPmR5-o71jvrLg",
+  "issuedOn": "2023-07-18T22:00:00Z",
+  "image": {
+    "id": "https://api.eu.badgr.io/public/assertions/qJ7t9f-aRYOmITceXdr4Rw/image"
+  },
+  "revoked": false,
+  "verification": {
+    "type": "HostedBadge"
+  },
+  "extensions:recipientProfile": {
+    "@context": "https://openbadgespec.org/extensions/recipientProfile/context.json",
+    "type": [
+      "Extension",
+      "extensions:RecipientProfile"
+    ],
+    "name": "David  Hernandez"
+  }
+}
 Welcome To my Profile I am David.  
 
 - I am a Electronic engineer (Digital systems Specialization) Bachellor from University Of Quindio High Quality.
