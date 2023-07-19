@@ -72,5 +72,5 @@ AWS:
 ![stats](https://github-readme-stats.vercel.app/api?username=jdhernandezS1&theme=blue-green)
 
 ![Hackathon](https://camo.githubusercontent.com/09a2e0850a8ac97c96de99fc67724e6c368db46d0e10dde639cadedc3749bb1e/68747470733a2f2f6d656469612e65752e62616467722e636f6d2f75706c6f6164732f6261646765732f617373657274696f6e2d7a77523264773975514f65684e33623859566e644c412e706e67)
-[Credential](https://eu.badgr.com/public/assertions/qJ7t9f-aRYOmITceXdr4Rw)
+([Credential](https://api.eu.badgr.io/public/assertions/qJ7t9f-aRYOmITceXdr4Rw?identity__email=julio-david%40hotmail.com)https://api.eu.badgr.io/public/assertions/qJ7t9f-aRYOmITceXdr4Rw?identity__email=julio-david%40hotmail.com)
 
